@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://teloniocalavera.github.io/feedbanana/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2026-03-09T19:37:07.759Z</updated>
+    <title>BananaReader</title>
+    <updated>2026-03-09T19:37:38.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://teloniocalavera.github.io/feedbanana/index.html"/>
     <link rel="self" href="https://teloniocalavera.github.io/feedbanana/feed.atom"/>
