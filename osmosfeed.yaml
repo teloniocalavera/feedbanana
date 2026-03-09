@@ -2,7 +2,7 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
-
+siteTitle: "BananaReader"
 cacheUrl: https://teloniocalavera.github.io/feedbanana/cache.json
 sources:
   - href: https://calaveras.bearblog.dev/feed/?type=rss
