@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://teloniocalavera.github.io/feedbanana/index.html</id>
     <title>BananaReader</title>
-    <updated>2026-03-09T19:37:38.225Z</updated>
+    <updated>2026-03-10T00:53:52.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://teloniocalavera.github.io/feedbanana/index.html"/>
     <link rel="self" href="https://teloniocalavera.github.io/feedbanana/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Países Bajos advierten de ciberataques rusos contra Signal y WhatsApp en todo el mundo: no necesitan malware]]></title>
+        <id>https://www.xataka.com/seguridad/paises-bajos-advierten-ciberataques-rusos-signal-whatsapp-todo-mundo-no-necesitan-malware</id>
+        <link href="https://www.xataka.com/seguridad/paises-bajos-advierten-ciberataques-rusos-signal-whatsapp-todo-mundo-no-necesitan-malware"/>
+        <updated>2026-03-09T21:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Cuando pensamos en aplicaciones como Signal o WhatsApp solemos asociarlas de inmediato con la idea de privacidad. Ambas se han construido sobre una promesa muy clara: el cifrado de extremo a extremo impide que terceros, incluidas las propias compañías, puedan leer los mensajes de los usuarios. Ese modelo de seguridad ha hecho que millones de personas confíen en estas plataformas para conversaciones personales, profesionales e incluso sensibles. Sin embargo, esa protección no significa que las cuentas estén completamente a salvo. Los servicios de inteligencia de Países Bajos han advertido ahora de una campaña global que busca comprometer cuentas de estas aplicaciones sin utilizar malware ni explotar fallos técnicos.
+Los objetivos. El servicio de inteligencia militar (MIVD) y el servicio gen…]]></summary>
+        <author>
+            <name>Javier Marquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft quiere que Copilot haga tareas más complejas. Para lograrlo ha recurrido a la IA de Anthropic]]></title>
+        <id>https://www.xataka.com/robotica-e-ia/microsoft-quiere-que-copilot-haga-tareas-complejas-para-lograrlo-ha-recurrido-a-ia-anthropic</id>
+        <link href="https://www.xataka.com/robotica-e-ia/microsoft-quiere-que-copilot-haga-tareas-complejas-para-lograrlo-ha-recurrido-a-ia-anthropic"/>
+        <updated>2026-03-09T20:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Durante mucho tiempo, cuando hablábamos de inteligencia artificial en Microsoft, había un nombre que aparecía una y otra vez: OpenAI. La relación entre ambas compañías fue determinante para el despegue de ChatGPT y también para el lanzamiento de Copilot. Pero el tablero de la IA se está moviendo con rapidez. Nuevos modelos, nuevos actores y una competencia cada vez más intensa están empujando a las grandes tecnológicas a diversificar sus apuestas. En ese contexto se entiende el último movimiento de Microsoft. 
+El anuncio. Microsoft ha decidido integrar tecnología de Anthropic dentro de Copilot, el asistente que ya forma parte de herramientas como Outlook, Teams o Excel dentro de Microsoft 365. Entre las novedades aparece Cowork, una herramienta basada en tecnología de Anthropic orientada …]]></summary>
+        <author>
+            <name>Javier Marquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Si quieres comprar una mansión a precio de saldo lo tienes más fácil que nunca. Lo único es que tendrás que mudarte a Dubái]]></title>
+        <id>https://www.xataka.com/magnet/quieres-comprar-mansion-a-precio-saldo-tienes-facil-que-nunca-unico-que-tendras-que-mudarte-a-abu-dabi-justo-ahora</id>
+        <link href="https://www.xataka.com/magnet/quieres-comprar-mansion-a-precio-saldo-tienes-facil-que-nunca-unico-que-tendras-que-mudarte-a-abu-dabi-justo-ahora"/>
+        <updated>2026-03-09T20:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Dubái y Abu Dabi se han posicionado como en el destino favorito de los más ricos del planeta gracias a una fiscalidad muy laxa y grandes posibilidades para obtener rentabilidad con un mercado inmobiliario al alza. Los pisos de lujo en la isla artificial de Palm Jumeirah, áticos con vistas al Burj Khalifa o mansiones de lujo en primera línea de mar se vendían en horas a los millonarios recién llegados.
+Los ataques iraníes con misiles sobre aeropuertos, puertos y zonas residenciales de los Emiratos Árabes Unidos han roto de golpe esa imagen de refugio seguro que la región había construido durante décadas. El mercado inmobiliario, que parecía una prueba de balas, afronta su primer reto: no hundirse ante la incertidumbre de la guerra.
+​El boom que nadie quería parar. El auge inmobiliario de lo…]]></summary>
+        <author>
+            <name>Rubén Andrés</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China afirma que tener su propia ASML no es tan difícil. Al fin y al cabo "ASML es un simple integrador”]]></title>
         <id>https://www.xataka.com/componentes/china-afirma-que-tener-su-propia-asml-no-dificil-al-fin-al-cabo-asml-simple-integrador</id>
